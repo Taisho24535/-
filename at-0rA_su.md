@@ -16,7 +16,9 @@ jsonには色々書いてあって意味わかんないが、ほしいのは``ce
 
 # うーん…
 画像編集ソフトでやってみたけど、これを一枚一枚くっつけていくとなると相当な時間がかかる…。cellIndexListの数字の振り方がわからない…。
-![tesuto](https://raw.githubusercontent.com/Taisho24535/-/refs/heads/main/test.png)
+![tesuto](https://raw.githubusercontent.com/Taisho24535/-/refs/heads/main/test.png)<br>
+<br>
+あれー、画素数の低いやつでつなげてみたけどなんか一部1辺のサイズが変化しているやつがあるぞー？なんだこれはー？？？？
 
 # 課題
 　・cellIndexListの数字に割り振られている画像をどうやって特定するか<br>
